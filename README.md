@@ -1,6 +1,6 @@
 # Welcome to BiCool!
 
-It's a web app to find and reserve the bike in Nantes .
+It's a web app to find and rent bicycles in Nantes .
 
 
 ## Installation
