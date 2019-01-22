@@ -1,0 +1,35 @@
+button.btn.btn-success-contact.btn-secondary.disabled {
+  color: white;
+  background-color: rgb(244, 106, 3)! important;
+  border-color: rgb(244, 106, 3)! important;
+  cursor: pointer;
+}
+
+h1.title-contact {
+  font-size: 25px !important;
+  color:  rgb(244, 106, 3);
+}
+
+label.label-contact {
+  text-align: justify !important;
+  color: rgb(18, 18, 18);
+}
+
+.modal-header {
+  border-bottom: 0 ! important;
+}
+
+.modal-footer {
+  border-top: 0 ! important;
+}
+
+.modal-title {
+  margin-bottom: 0;
+  line-height: 2.5;
+  color :rgb(244, 106, 3)! important;
+}
+
+.modal-header .close {
+  padding: 2rem;
+  margin: -1rem -1rem -1rem auto;
+}

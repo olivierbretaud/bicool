@@ -1,0 +1,78 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.col {
+margin-right: none;
+margin-left: none;
+}
+
+.wrapper-full-page {
+  font-family: 'Montserrat', sans-serif;
+  width: 100vw;
+  height: 100vh ;
+}
+
+.bg-grey{
+  background-color: rgb(249, 249, 249);
+}
+
+.bg-orange{
+  background-color: rgb(244, 106, 3);
+}
+
+.bg-dark-gray{
+  background-color: rgb(18, 18, 18);
+}
+
+.bg-red{
+  background-color: rgb(214, 15, 15);
+}
+
+.bg-green{
+  background-color: rgb(133, 191, 40);
+}
+
+.text-grey{
+color: rgb(212, 211, 211);
+}
+
+.text-orange{
+  color: rgb(244, 106, 3);
+}
+
+.fill-orange{
+  fill: rgb(244, 106, 3);
+}
+
+
+
+.text-dark-gray{
+  color: rgb(18, 18, 18);
+}
+  
+.btn-display-resa {
+  z-index: 8;
+  position: fixed;
+  border-radius: 10px;
+  background-color: rgb(249, 249, 249);
+  width: 45px;
+  bottom: 2vh;
+  right: 2vh;
+}
+
+
+
+/* ====== charte graphique ====== 
+
+* couleurs:
+
+orange bicloo:        244, 106, 3
+noir bicloo:          18,  18, 18
+rouge pointeurs map:  214, 15, 15
+vert pointeurs map:   133, 191, 40
+
+*/

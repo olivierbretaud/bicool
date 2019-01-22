@@ -1,0 +1,78 @@
+#cancel {
+  height: auto;
+	width: 250px;
+}
+
+.infobutton {
+  margin-left: -144%;
+  margin-top: -38%;
+  margin-top: -5px;
+}
+
+.title-info.timer {
+	color: rgb(244, 106, 3);
+	font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  margin-left: 11%;
+	margin-top: 15%;
+}
+
+ #reservation p {
+	font-size: 14px;
+  margin-top: 20px;
+  margin-left: 14%;
+  margin-bottom: -8px;
+ }
+
+ .popover {
+   text-align: center !important;
+   box-shadow: 0px 1px 10px 4px rgba(0, 0, 0, 0.3) !important;
+   padding-bottom: 20px;
+   border: 1px solid grey;
+ }
+
+ h3.popover-header {
+   color:#121212;
+ }
+
+h3.popover-header {
+    color: #121212;
+}
+
+.popover-header {
+    padding: 1.5rem .75rem !important;
+    margin-bottom: 0;
+    font-size: 1rem;
+    color: inherit;
+    background-color: #FFF !important;
+}
+
+.btn.btn-outline-warning.btn-sm:hover {
+  color: #FFF !important;
+  border: none !important;
+  background-color: rgb(244, 106, 3)!important;
+  border:1px solid rgb(244, 106, 3) !important;
+  margin-top: 20px;
+}
+
+.btn.btn-outline-warning.btn-sm:focus {
+  color: #FFF !important;
+  border: none !important;
+  background-color: rgb(244, 106, 3)!important;
+  border:1px solid rgb(244, 106, 3) !important;
+  margin-top: 20px;
+}
+
+.btn.btn-outline-warning.btn-sm {
+  font-size: 18px;
+  color: rgb(244, 106, 3) !important;
+  border:1px solid rgb(244, 106, 3) !important;
+  margin-top: 20px;
+}
+/* ==================== MEDIA QUERIES ==================== */
+@media screen and (max-width: 768px)  {
+    .infobutton {
+        margin-left: -21%;
+     		margin-top: 3%;
+    }
+}
